@@ -39,8 +39,12 @@ Backend:
 ## Project Structure
 
 
-## Author
 
+## About
+Taskly is a modern fullstack mobile application built with Flutter and ASP.NET Core.
+The mobile application communicates with a REST API backend and retrieves tasks from a database.
+This project demonstrates a simple fullstack architecture using modern UI design principles.
+## Author
 Product by **Enes Bağcı**
 ## Demo
 
