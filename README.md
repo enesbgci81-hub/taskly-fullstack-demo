@@ -7,8 +7,6 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# Taskly Fullstack Demo
-
 A modern fullstack mobile application built with:
 
 - Flutter (Mobile App)
