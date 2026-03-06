@@ -44,3 +44,6 @@ Backend:
 ## Author
 
 Product by **Enes Bağcı**
+## Demo
+
+![App Demo](screenshots/demo.gif)
