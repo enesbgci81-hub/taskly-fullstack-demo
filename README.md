@@ -14,7 +14,31 @@ A modern fullstack mobile application built with:
 - SQLite (Database)
 
 This project demonstrates a simple task management system where the mobile app communicates with a backend API.
+## API Endpoints
 
+The ASP.NET Core backend exposes the following REST API endpoints.
+
+### Get all tasks
+GET /api/tasks
+
+
+Returns a list of all tasks.
+
+Example response:
+
+```json
+[
+  {
+    "id": 1,
+    "title": "Learn ASP.NET Core",
+    "description": "Build my first fullstack task app",
+    "isCompleted": false,
+    "createdAt": "2026-03-07T12:30:00Z"
+  }
+]
+
+------Get task by id
+GET /api/tasks/{id}------
 ## Features
 
 - Modern Login UI
