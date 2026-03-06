@@ -1,5 +1,14 @@
 # Taskly Fullstack Demo
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-purple?logo=.net)
+![C#](https://img.shields.io/badge/C%23-.NET-blueviolet?logo=csharp)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+# Taskly Fullstack Demo
+
 A modern fullstack mobile application built with:
 
 - Flutter (Mobile App)
